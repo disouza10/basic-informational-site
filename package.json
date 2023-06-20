@@ -1,0 +1,23 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "A simple Node website from Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disouza10/basic-informational-site.git"
+  },
+  "author": "Diego Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/disouza10/basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/disouza10/basic-informational-site#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
